@@ -1,4 +1,4 @@
 # Final-Project-Group-Members
 ## Riley Tiedemann
-## Jackson McKay
+## Jackson Mckay
 ## Ivan Puri Rodriguez
